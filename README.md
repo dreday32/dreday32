@@ -16,7 +16,7 @@ I am an experienced Systems Engineer (previously Azure 104 certified) currently 
 
 ### 🚀 Roadmap & Progress
 - 📚 **CompTIA Security+**: *Study Phase - 90% Complete*
-- 🟦 **CCSK** &**Microsoft AZ-500**: *Targeting Q2 2026*
+- 🟦 **CCSK** &** Microsoft AZ-500**: *Targeting Q2 2026*
 - 🏗️ **HashiCorp Terraform**: *Lab Phase*
 - ☁️ **AWS Security Specialty,** & **CCSP** (Targeting 2027)
 
