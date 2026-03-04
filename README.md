@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋 
+### Systems Engineer | Transitioning to Cloud Security Specialist 🇨🇦
 
-<!--
-**dreday32/dreday32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an experienced Systems Engineer (previously Azure 104 certified) currently pivoting into **Cloud Security**. I am documenting my journey from infrastructure management to automated security operations through hands-on labs in **Azure Sandbox** and **AWS**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛡️ Active Security Focus & Labs
+*Currently building out my security portfolio through the following projects:*
+
+- **Identity Management (Active):** Architecting a Zero-Trust framework in Azure using **Entra ID**, MFA, and Conditional Access.
+- **Security as Code (Learning):** Automating hardened infrastructure deployments with **Terraform**.
+- **Threat Detection (Upcoming):** Configuring **Microsoft Sentinel** to aggregate logs and alert on suspicious activity.
+
+---
+
+### 🚀 Roadmap & Progress
+- 📚 **CompTIA Security+**: *Study Phase - 90% Complete*
+- 🟦 **CCSK** &**Microsoft AZ-500**: *Targeting Q2 2026*
+- 🏗️ **HashiCorp Terraform**: *Lab Phase*
+- ☁️ **AWS Security Specialty,** & **CCSP** (Targeting 2027)
+
+---
+
+### 🛠️ Technical Toolkit
+- **Infrastructure:** Windows/Linux Server, Virtualization, Networking (Systems Eng Background)
+- **Cloud Platform:** Microsoft Azure (Sandbox), AWS (Learning)
+- **Security Tools:** Microsoft Defender, Entra ID, Sentinel
+- **Automation:** PowerShell, Bash, Terraform (Active Focus)
+
+---
+
+### 📂 Repository Guide
+- [**Azure-Security-Labs**](./): Documentation of my Azure Sandbox hardening exercises.
+- [**Terraform-Deployments**](./): Secure Infrastructure-as-Code templates.
+
+---
+
+### 📫 Let's Connect
+- 💼 [LinkedIn Profile](www.linkedin.com/in/andre-mayne-38195494)
+- 📧 [Email Address](mailto:your@email.com)
