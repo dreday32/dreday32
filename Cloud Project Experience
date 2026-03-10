@@ -1,0 +1,135 @@
+# Cloud Project Experience
+
+This document tracks my exposure to cloud technologies and projects while working as a **Systems Engineer supporting hybrid infrastructure and cloud environments**.
+
+All descriptions are generalized to avoid disclosure of sensitive customer or company information.
+
+---
+
+# Hybrid Infrastructure Engineering
+
+## Role
+Systems Engineer responsible for supporting enterprise IT infrastructure across server, storage, virtualization, and networking platforms while increasingly participating in **cloud-related projects and architecture planning**.
+
+## Responsibilities
+
+• Supporting enterprise infrastructure environments across Windows and Linux platforms  
+• Troubleshooting server, storage, and networking issues  
+• Supporting virtualization environments and hybrid infrastructure integration  
+• Participating in infrastructure modernization initiatives  
+• Assisting with cloud-related deployments and architecture planning  
+
+---
+
+# Cloud Architecture Project Experience
+
+## Educational Institution Cloud Architecture Proposal
+
+Participated in the planning and design of a **cloud infrastructure solution for a legal education institution** supporting a student management platform and associated services.
+
+The project involved evaluating cloud infrastructure requirements for application hosting, database services, and system integration.
+
+### Responsibilities
+
+• Assisted in evaluating cloud infrastructure requirements for application hosting  
+• Participated in designing architecture supporting development, testing, and production environments  
+• Reviewed cloud security considerations including identity management and network segmentation  
+• Assisted in evaluating database hosting and storage requirements  
+• Contributed to discussions around monitoring, logging, and operational management  
+
+### Technologies Considered
+
+- Amazon Web Services (AWS)
+- cloud virtual networking
+- identity and access management
+- database hosting platforms
+- monitoring and logging services
+
+### Key Learning Outcomes
+
+This project provided exposure to cloud architecture design considerations including:
+
+- environment separation (dev/test/prod)
+- identity and access management strategies
+- scalable infrastructure design
+- monitoring and operational visibility
+- cloud security architecture considerations
+
+---
+
+# Cloud Security Exposure
+
+Through project participation and lab environments, I have gained exposure to key cloud security concepts including:
+
+### Identity and Access Management
+
+• Reviewing and understanding role-based access models  
+• Exposure to identity governance concepts  
+• Supporting least privilege access design principles  
+
+Technologies involved:
+
+- Azure Entra ID
+- AWS Identity and Access Management (IAM)
+
+---
+
+# Cloud Infrastructure Exposure
+
+Exposure to cloud infrastructure operations including:
+
+• resource provisioning and configuration  
+• identity and access configuration  
+• cloud networking concepts  
+• monitoring and operational troubleshooting  
+
+Platforms involved:
+
+- Microsoft Azure
+- Amazon Web Services (AWS)
+
+---
+
+# Monitoring and Operational Support
+
+Exposure to monitoring and operational activities including:
+
+• reviewing infrastructure alerts and logs  
+• troubleshooting performance and availability issues  
+• supporting infrastructure monitoring tools  
+• participating in incident response troubleshooting  
+
+---
+
+# Systems Engineering Foundation
+
+My cloud experience builds upon a strong foundation in enterprise infrastructure including:
+
+- Windows Server administration
+- Linux server environments
+- enterprise virtualization platforms
+- networking and infrastructure troubleshooting
+- storage systems and data management
+
+This infrastructure background supports my transition into **cloud infrastructure and cloud security engineering roles**.
+
+---
+
+# Current Cloud Security Focus
+
+I am actively expanding my cloud security capabilities through hands-on labs and certification preparation including:
+
+- Azure security configuration labs
+- infrastructure automation using Terraform
+- AWS security labs
+- identity and access security design
+- monitoring and threat detection practices
+
+---
+
+# Career Direction
+
+Systems Engineer  
+→ Cloud Engineer  
+→ Cloud Security Engineer  
+→ Cloud Security Architect
