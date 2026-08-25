@@ -110,7 +110,7 @@ The architecture incorporates:
 * AWS WAF
 * HTTPS using AWS Certificate Manager
 * Secure remote administration using AWS Client VPN
-* Systems Manager
+* AWS Systems Manager
 * CloudWatch and CloudTrail monitoring
 * S3-based backup architecture
 * Security Group segmentation
@@ -122,18 +122,21 @@ Project documentation and architecture examples are sanitized to remove customer
 
 ## 🏗️ Terraform Infrastructure Deployments
 
-Infrastructure as Code projects demonstrating the automated deployment of cloud infrastructure using **Terraform**.
+Infrastructure as Code projects and labs documenting my continued development with **Terraform**.
 
-Areas of focus include:
+Current and planned areas of focus include:
 
 * AWS networking and VPC architecture
 * Compute infrastructure
 * Security Groups
 * Load balancing
-* Reusable variables and outputs
+* Variables and outputs
+* Reusable Terraform configurations
 * Modular infrastructure design
 * Secure infrastructure provisioning
 * Infrastructure lifecycle management
+
+Projects will be added and expanded as implementations are completed.
 
 ---
 
@@ -161,6 +164,7 @@ Hands-on AWS and Azure security implementations covering areas such as:
 * **ISC2 Certified in Cybersecurity (CC)**
 * **Google Cloud Digital Leader**
 * **Microsoft Security, Compliance, and Identity Fundamentals (SC-900)**
+* **Microsoft 365 Fundamentals (MS-900)**
 * **AWS Certified Cloud Practitioner**
 * **Oracle Cloud Infrastructure Foundations**
 
@@ -173,11 +177,3 @@ https://www.linkedin.com/in/andre-mayne-38195494
 
 **Email**
 [dremayne32@gmail.com](mailto:dremayne32@gmail.com)
-
-# 📫 Connect With Me
-
-LinkedIn  
-https://www.linkedin.com/in/andre-mayne-38195494
-
-Email  
-dremayne32@gmail.com
