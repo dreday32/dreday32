@@ -161,7 +161,6 @@ Hands-on AWS and Azure security implementations covering areas such as:
 * **ISC2 Certified in Cybersecurity (CC)**
 * **Google Cloud Digital Leader**
 * **Microsoft Security, Compliance, and Identity Fundamentals (SC-900)**
-* **Microsoft 365 Fundamentals (MS-900)**
 * **AWS Certified Cloud Practitioner**
 * **Oracle Cloud Infrastructure Foundations**
 
