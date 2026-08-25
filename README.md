@@ -33,26 +33,6 @@ Currently developing hands-on expertise in:
 - Terraform secure infrastructure deployments
 - automated cloud resource provisioning
 
----
-
-# 🚀 Certification Progress
-
-| Certification | Status |
-|---|---|
-CompTIA Security+ | ✅ Certified |
-ISC2 Certified in Cybersecurity (CC) | ✅ Certified |
-CompTIA Linux+ | ✅ Certified |
-Microsoft SC-900 | ✅ Certified |
-Google Cloud Digital Leader | ✅ Certified |
-Oracle Cloud Infrastructure Foundations | ✅ Certified |
-CCSK (Cloud Security Alliance) | 📚 In Progress |
-Microsoft AZ-500 (Azure Security Engineer) | 📚 In Progress |
-Terraform Associate | Planned |
-AWS Security Specialty | Planned |
-CCSP | Long-Term Goal |
-
----
-
 # 🛠 Technical Toolkit
 
 ### Infrastructure
